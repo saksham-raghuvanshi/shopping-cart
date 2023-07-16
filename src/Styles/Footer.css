@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width:1200px;
+    margin: auto;
+    border-top: 1px solid #EEEEEE;
+    font-size: 18px;
+    padding: 0px 10px;
+
+}
+
+
+.copyright{
+    align-items: center;
+    padding: 9px;
+    font-weight: 500;
+    
+}
