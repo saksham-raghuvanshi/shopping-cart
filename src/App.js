@@ -5,6 +5,7 @@ import AllRoutes from "./Routes/AllRoutes";
 import "./Styles/Header.css";
 import "./Styles/Footer.css";
 import "./Styles/Cart.css";
+import "./Styles/cartCard.css";
 
 function App() {
   return (
